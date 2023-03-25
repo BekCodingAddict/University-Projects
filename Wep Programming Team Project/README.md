@@ -3,7 +3,7 @@ Informations About Samarkand, the Historical City of Uzbekistan
 This site contains all the interesting information about Samarkand, one of the historical cities of Uzbekistan. Here you can find all the information about the history of Samarkand, beautiful tourist attractions. At the same time, we will try to provide you with reforms and innovations in the development of the tourism industry in Samarkand.<br><br>
 <img src="https://github.com/BekCodingAddict/University-Projects/blob/main/Wep%20Programming%20Team%20Project/img/HomePage.png?raw=true" width="650" height="380" alt="HomePage">
 ## We build this portfolio together with<br>
-<img src="https://clipground.com/images/github-icon-clipart-7.png" width="25px" height="25px" alt="Github">
+[<img src="https://clipground.com/images/github-icon-clipart-7.png" width="25px" height="25px" alt="Github">]
 [Me](https://github.com/BekCodingAddict)
 [Donyor](https://github.com/7dony7)
 [Oybek](https://github.com/oybekjon94)
