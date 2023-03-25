@@ -4,9 +4,9 @@ This site contains all the interesting information about Samarkand, one of the h
 <img src="https://github.com/BekCodingAddict/University-Projects/blob/main/Wep%20Programming%20Team%20Project/img/HomePage.png?raw=true" width="650" height="380" alt="HomePage">
 ## We build this portfolio together with<br>
 <img src="https://clipground.com/images/github-icon-clipart-7.png" width="25px" height="25px" alt="Github">
-[Me](https://github.com/BekCodingAddict) <br>
-[Donyor](https://github.com/7dony7) <br>
-[Oybek](https://github.com/oybekjon94) <br>
+[Me](https://github.com/BekCodingAddict)
+[Donyor](https://github.com/7dony7)
+[Oybek](https://github.com/oybekjon94)
 # One page Portfolio Website (HTML CSS Project for Practice)
 We made this project for the team project task given in the web programming class from our University in 2021. This project was our first team project in the field of web programming. We learned a lot of things during the implementation of this project and took our knowledge in the front-end direction 1 step higher.
 This project is for html &amp; css practice. We made this by watching you tube tutorial
