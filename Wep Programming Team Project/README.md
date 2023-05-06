@@ -1,6 +1,6 @@
 # ABOUT THIS SITE
 
-<h2>👉 Link: [Project Link](https://bekcodingaddict.github.io/University-Projects/Wep%20Programming%20Team%20Project/)<br/>
+<h2>👉 Link: [Project Link](https://bekcodingaddict.github.io/University-Projects/Wep%20Programming%20Team%20Project/)<br/></h2>
   
 Informations About Samarkand, the Historical City of Uzbekistan
 This site contains all the interesting information about Samarkand, one of the historical cities of Uzbekistan. Here you can find all the information about the history of Samarkand, beautiful tourist attractions. At the same time, we will try to provide you with reforms and innovations in the development of the tourism industry in Samarkand.<br><br>
