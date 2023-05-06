@@ -4,7 +4,7 @@ This site contains all the interesting information about Samarkand, one of the h
 
 <h2>👉 Link: [Project Link](https://bekcodingaddict.github.io/University-Projects/Wep%20Programming%20Team%20Project/)
   
-<img src="https://github.com/BekCodingAddict/University-Projects/blob/main/Wep%20Programming%20Team%20Project/img/HomePage.png?raw=true" width="650" height="380" alt="HomePage">
+<br><img src="https://github.com/BekCodingAddict/University-Projects/blob/main/Wep%20Programming%20Team%20Project/img/HomePage.png?raw=true" width="650" height="380" alt="HomePage">
 ## We build this portfolio together with<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" title="Github" width="30px" height="30px" alt="Github"> >>[Me](https://github.com/BekCodingAddict)<br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" style="border-radius:15px" title="Github" width="30px" height="30px" alt="Gitgub"> >>[Donyor](https://github.com/7dony7)<br>
